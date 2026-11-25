@@ -1,6 +1,6 @@
 # Mazda CX-30 (2023) MITSUBA WM23B front wiper module with brushless motor and LIN bus interface [STM32C562RE]
 
-Inspired by [eCarEdu](https://www.youtube.com/watch?v=-gBkNWhi_VA). The part number is [51550011 WM230-011](https://allegro.pl/listing?string=wm23) by [MITSUBA](www.mitsuba.co.jp).
+Inspired by [eCarEdu](https://www.youtube.com/watch?v=-gBkNWhi_VA). The part number is [51550011 WM230-011](https://allegro.pl/listing?string=wm23) by [MITSUBA](https://www.mitsuba.co.jp/en/).
 
 ![Mazda CX-30 front wiper motor module in action](/Assets/Images/mazda_cx30_wiper_actuator_in_action.jpg)
 
